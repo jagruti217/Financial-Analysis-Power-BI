@@ -1,6 +1,9 @@
 # Financial-Analysis-Power-BI
 This project focuses on analyzing credit card usage and financial metrics for a banking institution using Power BI and DAX queries. The goal is to provide key insights into customer behavior, credit utilization, and financial performance by applying advanced DAX functions.
 
+## Dataset Link :
+https://drive.google.com/drive/folders/1_WFbqp5gg3e7yE6cdBDAj0H5iGGIy0uW
+
 ## Project Overview
 
 The analysis covers various aspects of financial data, including:
